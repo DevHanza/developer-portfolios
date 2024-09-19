@@ -139,6 +139,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Benjamin Lannon](https://lannonbr.com)
 - [Ben Rogers](https://benrogers.dev)
+- [Ben Borgers](https://ben.page/)
 - [Berat Bozkurt](https://beratbozkurt.net)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me)
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
