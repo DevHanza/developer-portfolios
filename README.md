@@ -955,6 +955,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## S
 
+  ([@satishjhanwer](https://github.com/satishjhanwer))
+  ([@saurabhnemade](https://github.com/saurabhnemade))
+  ([@sinashahoveisi](https://github.com/sinashahoveisi))
+  [Software Engineer | Machine Learning Engineer]
+  Engineer)](https://github.com/a1603169)
+  Programmer]
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
@@ -994,16 +1000,14 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev/)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Satish Jhanwer](https://satishjhanwer.github.io)
-- [Surajit Sen](https://surajitsen.me/)
-  ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurabh Nemade](https://www.nemade.eu) (Staff Engineer)
-  ([@saurabhnemade](https://github.com/saurabhnemade))
 - [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
+- [Sawyer Hollenshead](https://www.sawyer.soy/)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayed Anowar](https://sayedanowar.netlify.app/) [Freelance Web Developer]
@@ -1018,7 +1022,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Serhii Nazarov](https://www.serhii-nazarov.com/) [Senior Front-End | Full Stack Engineer]
 - [Seth Hall](https://sethhallcreative.com)
 - [Seunghun Bang](https://seunghun-website.vercel.app) (Software Engineer | Support
-  Engineer)](https://github.com/a1603169)
 - [Seyhun Akyurek](https://www.seyhunakyurek.com)
 - [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio/)
 - [Shaan Khan](https://www.shaankhan.dev)
@@ -1037,7 +1040,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shaurya Chandhoke](https://shauryachandhoke.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=portfolio)
-  [Software Engineer | Machine Learning Engineer]
 - [Shefali](https://shefali.dev)
 - [Sheljin](https://shelj.in) [Full Stack Developer]
 - [Shibiraj](https://shibiverse.tech/)
@@ -1057,7 +1059,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Sina Shahoveisi](https://sinasho.ir) (Software Engineer)
-  ([@sinashahoveisi](https://github.com/sinashahoveisi))
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Soham Mondal](https://sohammondal.com)
 - [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
@@ -1076,11 +1077,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sudev Thapa Magar](https://portfolio-nu-ten-94.vercel.app/) - Full Stack Developer
 - [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
+- [Surajit Sen](https://surajitsen.me/)
 - [Surya MU](https://surya-mu.me/)
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot
-  Programmer]
 - [Syed Syab Ahmad - Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 
