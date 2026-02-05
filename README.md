@@ -1429,6 +1429,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Thibault Mathian](https://thibault.sh)
 - [Thinh Ngo](https://thinhcorner.com)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
+- [Thomas Havlik](https://thavlik.dev/)
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full Stack Developer]
@@ -1450,6 +1451,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
+
 
 ## U
 
